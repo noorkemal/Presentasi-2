@@ -17,7 +17,7 @@ The Wildly Important memiliki arti = Yang Sangat Penting
 
 ---
 
-![Flux Explained](Libraries/Pictures/4d.png)
+![https://raw.githubusercontent.com/noorkemal/Presentasi-2/master/Blog-82-4DX.jpg)
 
 ---
 
@@ -29,11 +29,11 @@ The Wildly Important memiliki arti = Yang Sangat Penting
 
 ---
 
-![Flux Explained](Libraries/Pictures/whirlwind-vs-goals-1310x650.png)
+![Flux Explained](https://raw.githubusercontent.com/noorkemal/Presentasi-2/master/whirlwind-vs-goals-1310x650.png)
 
 ---
 
-![Flux Explained](Libraries/Pictures/fall-directors-2014-wigs-session-16-638.jpeg)
+![Flux Explained](https://raw.githubusercontent.com/noorkemal/Presentasi-2/master/fall-directors-2014-wigs-session-16-638.jpg)
 
 ---
 
@@ -50,8 +50,8 @@ The Wildly Important memiliki arti = Yang Sangat Penting
 
 ---
 
-### Solusi
+### Upaya
 
-![Flux Explained](Libraries/Pictures/fall-directors-2014-wigs-session-16-638.jpeg)
+![Flux Explained](https://raw.githubusercontent.com/noorkemal/Presentasi-2/master/Disciplines%2B%231_%2BFocus%2Bon%2BWildly%2BImportant%2BGoals.jpg)
 
 
