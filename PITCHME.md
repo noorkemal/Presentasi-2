@@ -17,7 +17,7 @@ The Wildly Important memiliki arti = Yang Sangat Penting
 
 ---
 
-![https://raw.githubusercontent.com/noorkemal/Presentasi-2/master/Blog-82-4DX.jpg)
+![Flux Explained](https://raw.githubusercontent.com/noorkemal/Presentasi-2/master/Blog-82-4DX.jpg)
 
 ---
 
